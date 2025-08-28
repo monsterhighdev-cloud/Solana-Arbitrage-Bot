@@ -20,18 +20,7 @@ https://solscan.io/account/MEViEnscUm6tsQRoGd9h6nLQaQspKj7DB2M5FwM3Xvz
 - Kamino flashloan integration
 - Parse all available pool types (Raydium, DLMM, Whirlpool, etc.)
 
-## Supported Dexes
 
-- Pump AMM
-- Raydium V4
-- Raydium CPMM
-- Raydium CLMM
-- Meteora DLMM
-- Meteora Dynamic AMM
-- Meteora DAMM V2
-- Orca Whirlpool
-- SolFi
-- Vertigo
 
 ## Getting Started
 
