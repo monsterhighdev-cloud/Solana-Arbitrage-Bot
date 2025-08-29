@@ -65,9 +65,10 @@ https://solscan.io/account/MEViEnscUm6tsQRoGd9h6nLQaQspKj7DB2M5FwM3Xvz
 
 - `compute_unit_limit`: Maximum compute unit limit per transaction
 - `process_delay`: Delay between processing iterations in milliseconds
+this is really important
 
 ### Routing Configuration
-
+       
 - `mint_config_list`: List of mints to process
   - `mint`: Mint address
   - `raydium_pool_list`: List of Raydium pool addresses
@@ -84,6 +85,7 @@ https://solscan.io/account/MEViEnscUm6tsQRoGd9h6nLQaQspKj7DB2M5FwM3Xvz
   - `process_delay`: Process delay in milliseconds
 
 ### RPC Configuration
+
 
 - `url`: RPC URL for the Solana network
 
