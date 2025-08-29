@@ -91,9 +91,9 @@ https://solscan.io/account/MEViEnscUm6tsQRoGd9h6nLQaQspKj7DB2M5FwM3Xvz
 
 - `enabled`: Enable spam transactions
 - `sending_rpc_urls`: List of RPC URLs for sending transactions
-- `compute_unit_price`: 🛰git Fixed compute unit price
-- `max_retries`: 🥇Maximum retries
-- `enable_simple_send`: 🧶Enable simple send mode
+- `compute_unit_price`: Fixed compute unit price
+- `max_retries`: Maximum retries
+- `enable_simple_send`: Enable simple send mode
 
 ### Wallet Configuration
 
